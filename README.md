@@ -149,13 +149,16 @@ Only **7 players (6%) got farther from the basket** when recovering from a shoot
 
 Across all 566 players:
 
+#### Most Common Slump Shot Zones
 ![Most Common Shot Zones - Slump](https://github.com/dylanbarrett-analytics/nba_2024_25_shot_level_slumps_and_recoveries/blob/main/images/most_common_shot_zones_slump.png)
 
+#### Most Common Recovery Shot Zones
 ![Most Common Shot Zones - Recovery](https://github.com/dylanbarrett-analytics/nba_2024_25_shot_level_slumps_and_recoveries/blob/main/images/most_common_shot_zones_recovery.png)
 
 From slump → recovery, the **only shot zone** that showed an **increase in percentage of shots** was the **restricted area** (i.e., the area below the basket). This increase was **14.59 percentage points**, which is significant.
 
 The second largest slump → recovery shift was with Above the Break 3s (i.e., non-corner three-point attempts). This decrease was 8.68 percentage points, which stands out as well.
+<br>
 
 Overall, these shot zone shifts are further proof that players ultimately got closer to the basket when recovering from shooting slumps.
 
@@ -166,6 +169,7 @@ Overall, these shot zone shifts are further proof that players ultimately got cl
 ![Dashboard Screenshot](https://github.com/dylanbarrett-analytics/nba_2024_25_shot_level_slumps_and_recoveries/blob/main/images/nba_2024_25_slump_recovery_shots_dashboard.png)
 
 Looking at the *shot location comparison* visual, notice how, for recovery shots, there is a lot of empty space on the floor between the three-point line and the key... way more space than the slump shot plot. For recovery shots, shots were more concentrated inside the key (especially under the basket).
+<br>
 
 From slump → recovery, there is a noticeable drop in both long three-point attempts and long two-point attempts.
 
@@ -176,6 +180,7 @@ From slump → recovery, there is a noticeable drop in both long three-point att
 For the 2024-25 NBA regular season, this study confirms that **recoveries from shooting slumps** were associated with a meaningful shift toward **shorter shot distances and locations**. 
 
 This does not guarantee that simply taking closer shots will result in breaking out of a slump, but the results absolutely suggest that **successful recoveries coincide with simpler, higher-percentage shot attempts**.
+<br>
 
 So when a TV broadcast analyst notices a player struggling with his shot and says something like:
 
