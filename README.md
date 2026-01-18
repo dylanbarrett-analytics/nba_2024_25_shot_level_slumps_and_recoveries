@@ -137,10 +137,12 @@ Before studying player-by-player metrics, a filter was implemented so that **onl
 
 Out of 117 qualified players, **110 players (94%!) got closer to the basket** when recovering from a shooting slump.
 <br>
+<br>
 
 ![Top Players - Away from Basket](https://github.com/dylanbarrett-analytics/nba_2024_25_shot_level_slumps_and_recoveries/blob/main/images/top_players_away_from_basket.png)
 
 Only **7 players (6%) got farther from the basket** when recovering from a shooting slump, and as seen above, these average shot distance changes were very small.
+<br>
 <br>
 
 ### **Most Common Shot Zones (Global-Level)**
