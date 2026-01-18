@@ -5,12 +5,14 @@
 ## **Introduction**
 
 When a player is in a shooting slump, a TV broadcast analyst will often say something along the lines of:
-
+<br>
+<br>
 > "I'd like to see him get closer to the basket."
 <br>
 
 Due to the offensive system, the opposing defense's strategy, and spacing in general, this is easier said than done; however, it still raises the question:
-
+<br>
+<br>
 > Do players actually take closer shots when they recover from shooting slumps?
 <br>
 
