@@ -128,6 +128,8 @@ For league-wide averages across 566 total players, **recovery shots were taken f
 This **average shot distance change of -3.42 ft** confirms that players typically got closer to the basket when they broke out of a slump.
 
 > These average shot distances come from league-wide totals of 43,180 slump shots and 6,398 recovery shots.
+<br>
+<br>
 
 #### **Average Shot Distance (Player-Level)**
 
@@ -151,14 +153,15 @@ Across all 566 players:
 
 #### Most Common Slump Shot Zones
 ![Most Common Shot Zones - Slump](https://github.com/dylanbarrett-analytics/nba_2024_25_shot_level_slumps_and_recoveries/blob/main/images/most_common_shot_zones_slump.png)
+<br>
 
 #### Most Common Recovery Shot Zones
 ![Most Common Shot Zones - Recovery](https://github.com/dylanbarrett-analytics/nba_2024_25_shot_level_slumps_and_recoveries/blob/main/images/most_common_shot_zones_recovery.png)
+<br>
 
 From slump → recovery, the **only shot zone** that showed an **increase in percentage of shots** was the **restricted area** (i.e., the area below the basket). This increase was **14.59 percentage points**, which is significant.
 
 The second largest slump → recovery shift was with Above the Break 3s (i.e., non-corner three-point attempts). This decrease was 8.68 percentage points, which stands out as well.
-<br>
 <br>
 
 Overall, these shot zone shifts are further proof that players ultimately got closer to the basket when recovering from shooting slumps.
