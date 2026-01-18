@@ -83,7 +83,9 @@ Player-level metrics that summarize shot distance and location adjustments (from
 
 ## **Notebook 01: Data Acquisition**
 
-All 30 NBA team IDs were extracted from the NBA API endpoint `teams`. Then all shot-by-shot data for the 2024-25 regular season was pulled from the endpoint `ShotChartDetail`, using these 30 team IDs as input parameters. This resulted in a shot-level dataset of **219,527 shots**.
+All 30 NBA team IDs were extracted from the NBA API endpoint `teams`. Then all shot-by-shot data for the 2024-25 regular season was pulled from the endpoint `ShotChartDetail`, using these 30 team IDs as input parameters.
+
+This resulted in a shot-level dataset of **219,527 shots**.
 
 ---
 
@@ -99,7 +101,7 @@ A shot index was created so that every shot in every player-game was labeled in 
 
 > For example, if a player-game has 16 shot attempts, those shots are labeled 1, 2, 3, ..., 14, 15, 16.
 
-Next, a **state-based detection function** was applied to every shot from every player-game. Every shot now had a "state" label (or phase label) and there were three possible states for each shot:
+Next, a **state-based detection function** was applied to every shot from every player-game. Every shot now had a "state" label (or phase label), and there were three possible states for each shot:
 
 > - **Neutral:** the default shot state
 > - **Slump:** shots taken while the player is in a shooting slump
