@@ -58,7 +58,7 @@ All shots were processed chronologically within each **player-game**.
 
 ---
 
-## **Project Files** (Fix definitions)
+## **Project Files**
 
 ### **Jupyter Notebooks**
 - [`01_acquire_shot_level_data.ipynb`](https://github.com/dylanbarrett-analytics/nba_2024_25_shot_level_slumps_and_recoveries/blob/main/notebooks/01_acquire_shot_level_data.ipynb)
