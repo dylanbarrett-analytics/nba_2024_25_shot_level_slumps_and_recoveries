@@ -171,7 +171,7 @@ Overall, these shot zone shifts are further proof that players ultimately got cl
 
 ### **Tableau Dashboard**
 
-![Dashboard Screenshot](https://github.com/dylanbarrett-analytics/nba_2024_25_shot_level_slumps_and_recoveries/blob/main/images/nba_2024_25_slump_recovery_shots_dashboard.png)
+![Dashboard Screenshot](https://github.com/dylanbarrett-analytics/nba_2024_25_shot_level_slumps_and_recoveries/blob/main/images/nba_2024_25_slump_%2B_recovery_shots_dashboard.png)
 
 Looking at the *shot location comparison* visual, notice how, for recovery shots, there is a lot of empty space on the floor between the three-point line and the key... way more space than the slump shot plot. For recovery shots, shots were more concentrated inside the key (especially under the basket).
 <br>
