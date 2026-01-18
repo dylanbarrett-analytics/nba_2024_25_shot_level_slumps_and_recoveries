@@ -139,7 +139,6 @@ Before studying player-by-player metrics, a filter was implemented so that **onl
 
 Out of 117 qualified players, **110 players (94%!) got closer to the basket** when recovering from a shooting slump.
 <br>
-<br>
 
 ![Top Players - Away from Basket](https://github.com/dylanbarrett-analytics/nba_2024_25_shot_level_slumps_and_recoveries/blob/main/images/top_players_away_from_basket.png)
 
@@ -162,6 +161,7 @@ Across all 566 players:
 From slump → recovery, the **only shot zone** that showed an **increase in percentage of shots** was the **restricted area** (i.e., the area below the basket). This increase was **14.59 percentage points**, which is significant.
 
 The second largest slump → recovery shift was with Above the Break 3s (i.e., non-corner three-point attempts). This decrease was 8.68 percentage points, which stands out as well.
+<br>
 <br>
 
 Overall, these shot zone shifts are further proof that players ultimately got closer to the basket when recovering from shooting slumps.
