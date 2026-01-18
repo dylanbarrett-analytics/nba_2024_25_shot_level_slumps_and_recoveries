@@ -59,20 +59,14 @@ All shots were processed chronologically within each **player-game**.
 ## **Project Files** (Fix definitions)
 
 ### **Jupyter Notebooks**
-[`01_acquire_shot_level_data.ipynb`](https://github.com/dylanbarrett-analytics/nba_2024_25_shot_level_slumps_and_recoveries/blob/main/notebooks/01_acquire_shot_level_data.ipynb)
-- Raw collection (via NBA API) of 2024-25 shot-by-shot data
-[`02_clean_shot_level_data.ipynb`](https://github.com/dylanbarrett-analytics/nba_2024_25_shot_level_slumps_and_recoveries/blob/main/notebooks/02_clean_shot_level_data.ipynb)
-- Cleaning and consolidation of 2024-25 shot-by-shot data
-[`03_detect_slumps_recoveries.ipynb`](https://github.com/dylanbarrett-analytics/nba_2024_25_shot_level_slumps_and_recoveries/blob/main/notebooks/03_detect_slumps_recoveries.ipynb)
-- Includes the state logic that classifies every shot as either "neutral", "slump", or "recovered" based on recent shot outcomes
-[`04_shot_level_analysis.ipynb`](https://github.com/dylanbarrett-analytics/nba_2024_25_shot_level_slumps_and_recoveries/blob/main/notebooks/04_shot_level_analysis.ipynb)
-- Analysis of how shot distance and location changes from slump shots to recovery shots
+[`01_acquire_shot_level_data.ipynb`](https://github.com/dylanbarrett-analytics/nba_2024_25_shot_level_slumps_and_recoveries/blob/main/notebooks/01_acquire_shot_level_data.ipynb) Raw collection (via NBA API) of 2024-25 shot-by-shot data
+[`02_clean_shot_level_data.ipynb`](https://github.com/dylanbarrett-analytics/nba_2024_25_shot_level_slumps_and_recoveries/blob/main/notebooks/02_clean_shot_level_data.ipynb) Cleaning and consolidation of 2024-25 shot-by-shot data
+[`03_detect_slumps_recoveries.ipynb`](https://github.com/dylanbarrett-analytics/nba_2024_25_shot_level_slumps_and_recoveries/blob/main/notebooks/03_detect_slumps_recoveries.ipynb) Includes the state logic that classifies every shot as either "neutral", "slump", or "recovered" based on recent shot outcomes
+[`04_shot_level_analysis.ipynb`](https://github.com/dylanbarrett-analytics/nba_2024_25_shot_level_slumps_and_recoveries/blob/main/notebooks/04_shot_level_analysis.ipynb) Analysis of how shot distance and location changes from slump shots to recovery shots
 
 ### **CSV Exports**
-[`all_player_shots_slump_or_recovery.csv`](https://github.com/dylanbarrett-analytics/nba_2024_25_shot_level_slumps_and_recoveries/blob/main/csv/all_player_shots_slump_or_recovery.csv)
-- Finalized shot-level (shot-by-shot) database (only "slump" or "recovered" rows, no "neutral" rows)
-[`player_shot_summary_final.csv`](https://github.com/dylanbarrett-analytics/nba_2024_25_shot_level_slumps_and_recoveries/blob/main/csv/player_shot_summary_final.csv)
-- Player-level metrics that summarize shot distance and location adjustments (from slump → recovery)
+[`all_player_shots_slump_or_recovery.csv`](https://github.com/dylanbarrett-analytics/nba_2024_25_shot_level_slumps_and_recoveries/blob/main/csv/all_player_shots_slump_or_recovery.csv) Finalized shot-level (shot-by-shot) database (only "slump" or "recovered" rows, no "neutral" rows)
+[`player_shot_summary_final.csv`](https://github.com/dylanbarrett-analytics/nba_2024_25_shot_level_slumps_and_recoveries/blob/main/csv/player_shot_summary_final.csv) Player-level metrics that summarize shot distance and location adjustments (from slump → recovery)
 
 ### **Documentation**
 - `README.md`: Project documentation
