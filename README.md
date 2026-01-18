@@ -136,10 +136,12 @@ Before studying player-by-player metrics, a filter was implemented so that **onl
 ![Top Players - Closer to Basket](https://github.com/dylanbarrett-analytics/nba_2024_25_shot_level_slumps_and_recoveries/blob/main/images/top_players_closer_to_basket.png)
 
 Out of 117 qualified players, **110 players (94%!) got closer to the basket** when recovering from a shooting slump.
+<br>
 
 ![Top Players - Away from Basket](https://github.com/dylanbarrett-analytics/nba_2024_25_shot_level_slumps_and_recoveries/blob/main/images/top_players_away_from_basket.png)
 
 Only **7 players (6%) got farther from the basket** when recovering from a shooting slump, and as seen above, these average shot distance changes were very small.
+<br>
 
 ### **Most Common Shot Zones (Global-Level)**
 
@@ -176,6 +178,7 @@ This does not guarantee that simply taking closer shots will result in breaking 
 So when a TV broadcast analyst notices a player struggling with his shot and says something like:
 
 > "I'd like to see him get closer to the basket."
+<br>
 
 the analytics back up that intuition.
 
